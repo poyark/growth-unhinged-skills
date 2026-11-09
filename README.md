@@ -34,4 +34,4 @@ Several skills (content-editor, content-performance-analyzer, seo-checker, subsc
 
 ## About
 
-Built by [Kyle Poyar](https://www.linkedin.com/in/kylepoyar/), author of [Growth Unhinged](https://www.growthunhinged.com) — a newsletter on B2B SaaS growth, pricing, and GTM strategy read by 80,000+ subscribers.
+Built by [Kyle Poyar](https://www.linkedin.com/in/kylepoyar/), author of [Growth Unhinged](https://www.growthunhinged.com) — a newsletter on B2B SaaS growth, pricing, and GTM strategy read by 90,000+ subscribers.
